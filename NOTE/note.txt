@@ -1,0 +1,31 @@
+http://blog.csdn.net/jiangwei0910410003/article/details/40509571
+
+
+http://blog.csdn.net/hp910315/article/details/48501197(详细解释)
+
+//设备：1280*736
+com.example.mac.screenadaptation D/Utils: onCreate: dm=DisplayMetrics{density=0.0, width=0, height=0, scaledDensity=0.0, xdpi=0.0, ydpi=0.0}
+com.example.mac.screenadaptation D/Utils: onCreate: dm=DisplayMetrics{density=1.3312501, width=1280, height=736, scaledDensity=1.3312501, xdpi=216.746, ydpi=216.17}
+com.example.mac.screenadaptation D/Utils: onCreate: density=1.3312501
+com.example.mac.screenadaptation D/Utils: onCreate: densityDPI=213
+com.example.mac.screenadaptation D/Utils: onCreate: xdpi=216.746
+com.example.mac.screenadaptation D/Utils: onCreate: ydpi=216.17
+com.example.mac.screenadaptation D/Utils: onCreate: scaledDensity=1.3312501
+
+//手机：1080*2160
+com.example.mac.screenadaptation D/Utils: onCreate: dm=DisplayMetrics{density=0.0, width=0, height=0, scaledDensity=0.0, xdpi=0.0, ydpi=0.0}
+com.example.mac.screenadaptation D/Utils: onCreate: dm=DisplayMetrics{density=3.0, width=1080, height=2160, scaledDensity=3.0, xdpi=403.411, ydpi=403.411}
+com.example.mac.screenadaptation D/Utils: onCreate: densityDPI=480
+com.example.mac.screenadaptation D/Utils: onCreate: density=3.0
+com.example.mac.screenadaptation D/Utils: onCreate: scaledDensity=3.0
+com.example.mac.screenadaptation D/Utils: onCreate: xdpi=403.411
+com.example.mac.screenadaptation D/Utils: onCreate: ydpi=403.411
+
+
+ScreenAdaptationPercent：项目为使用百分比布局库(percent-support-lib)适配屏幕
+
+ScreenAdaptationPercentStrong:ScreenAdaptationPercent的增强版
+
+OtherAttribute:简单练习其他UI属性，譬如：  android:layout_gravity=""、 android:gravity="" 等
+
+
